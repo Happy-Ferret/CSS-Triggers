@@ -1,864 +1,864 @@
 module.exports = {
   "data": {
     "align-content-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "align-items-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "align-self-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "backface-visibility-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "backface-visibility-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "background-attachment-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-attachment-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-blend-mode-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-blend-mode-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-clip-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-color-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-image-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-image-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-origin-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-position-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-position-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-repeat-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-repeat-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-size-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "background-size-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-left-radius-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-left-radius-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-right-radius-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-right-radius-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-bottom-style-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-bottom-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-bottom-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-bottom-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-collapse-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-image-outset-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-image-outset-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-image-repeat-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-image-slice-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-image-slice-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-image-source-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-image-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-left-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-left-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-left-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-left-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-right-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-right-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-right-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-right-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-top-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-top-left-radius-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-top-left-radius-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-top-right-radius-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-top-right-radius-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "border-top-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-top-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "border-top-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "bottom-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "bottom-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "box-shadow-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "box-shadow-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "box-sizing-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "clear-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "clip-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "color-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "cursor-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "direction-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "display-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-basis-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-direction-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-direction-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-grow-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-grow-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-shrink-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-shrink-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-wrap-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "flex-wrap-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "float-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "float-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-family-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-family-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-kerning-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-size-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-variant-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-variant-ligatures-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "font-weight-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "height-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "height-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "justify-content-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "left-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "left-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "letter-spacing-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "line-height-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "list-style-image-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "list-style-position-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "list-style-type-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-bottom-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-bottom-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-left-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-left-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-right-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-right-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-top-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "margin-top-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "max-height-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "max-height-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "max-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "max-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "min-height-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "min-height-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "min-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "min-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": true,
+      "composite": true
     },
     "opacity-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "opacity-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "order-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "order-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "orphans-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "outline-color-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "outline-offset-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "outline-offset-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "outline-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "outline-width-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "outline-width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "overflow-wrap-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "overflow-x-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "overflow-x-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "overflow-y-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "overflow-y-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-bottom-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-bottom-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-left-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-left-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-right-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-right-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-top-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "padding-top-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "perspective-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "perspective-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "perspective-origin-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "perspective-origin-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "pointer-events-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "position-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "resize-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "right-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "right-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "table-layout-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-align-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-decoration-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "text-indent-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-indent-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-rendering-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-rendering-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-shadow-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-shadow-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "text-transform-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "top-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "top-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "transform-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "transform-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "transform-origin-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "transform-origin-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "transform-style-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "unicode-bidi-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "vertical-align-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "visibility-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "white-space-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "widows-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": false,
+      "layout": false,
+      "composite": true
     },
     "width-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "word-break-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "word-spacing-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "word-wrap-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": true,
+      "composite": true
     },
     "z-index-change": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     },
     "z-index-initial": {
-      "layout": null,
-      "paint": null,
-      "composite": null
+      "paint": true,
+      "layout": false,
+      "composite": true
     }
   }
 };
